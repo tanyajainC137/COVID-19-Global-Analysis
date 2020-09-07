@@ -1,8 +1,8 @@
-# This is the final_submission/
-## data/
+# This is the final_submission
+## /data
 * cases and deaths; john_hopkins
 * social/mobility; google
-## python_notebooks/
+## /python_notebooks
 * EDA base; data cleaning
 * EDA1; data visualisation
 * EDA social1; data exploration + visuals on social data
